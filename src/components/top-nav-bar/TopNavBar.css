@@ -1,0 +1,14 @@
+.header{
+    margin-bottom: 24px;
+    text-align: center;
+}
+.header-title{
+    color: #3f51b5;
+    margin-bottom: 6px;
+    font-weight: 700;
+}
+
+.header-tagline{
+    color: #aaa;
+    text-align: center;
+}
