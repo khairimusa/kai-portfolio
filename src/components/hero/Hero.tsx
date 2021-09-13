@@ -4,7 +4,11 @@ import './Hero.css';
 function Hero() {
   return (
     <section className="hero">
-        <h1>Hi, it's Khairi.</h1>
+      <h4 className="name">
+        Web Application Developer
+      </h4>
+      <div className="info">
+      </div>
     </section>
   );
 }

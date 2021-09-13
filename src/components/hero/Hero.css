@@ -1,8 +1,4 @@
 .hero {
-    color: #3f51b5;
-}
-
-.hero h1{
-    font-size: 48px;
-    line-height: 1.1;
+    color: whitesmoke;
+    text-align: center;
 }

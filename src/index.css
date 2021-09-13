@@ -1,11 +1,28 @@
-
-body {
-  font-family:'Cascadia Code';
-  color: #4d4d4d;
-  background-color: #fff;
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 12px 12px 0;
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+html, body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    /* background-color: #121212; */
+    background-color: #060b26;
+    color: rgba(0, 0, 0, 0.54);
+    letter-spacing: .25px;
+    /* line-height: 21px; */
+    font-size: 32px;
+    min-height: 100vh;
+    min-width: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
 
 code {
