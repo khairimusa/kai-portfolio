@@ -1,4 +1,3 @@
-import React from 'react';
 import './TopNavBar.css';
 
 function TopNavBar() {
